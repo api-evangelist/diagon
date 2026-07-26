@@ -1,0 +1,39 @@
+generated: '2026-07-20'
+method: searched
+source: live probe of https://diagon.ai/.well-known/*
+host: https://diagon.ai
+summary: >-
+  No /.well-known/ discovery documents are published. Diagon runs Albus as a
+  first-party web application (Clerk session auth) with no public developer API,
+  so there is no OIDC/OAuth discovery, API catalog or ai-plugin surface. Recorded
+  here as a negative result for future re-runs; no WellKnown pointer is wired in
+  apis.yml because nothing was found.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /.well-known/mcp.json
+  status: 404
+other_documents:
+- path: /llms.txt
+  status: 200
+  file: ../llms/diagon-llms.txt
+  note: Real llms.txt published by the provider; saved verbatim.
+- path: /robots.txt
+  status: 200
+  note: >-
+    Explicit per-agent AI crawler policy. GPTBot, ChatGPT-User, ClaudeBot,
+    anthropic-ai, PerplexityBot, Google-Extended, Cohere-ai and
+    meta-externalagent are each named and Allowed on public surfaces, with
+    /api/, /auth/, /admin/, /project(s)/, /analytics/, /settings/,
+    /seller/dashboard/ and the auth routes disallowed.
+- path: /sitemap.xml
+  status: 200
+  note: Sitemap index covering pages, categories, OEMs, models (8) and listings (3).

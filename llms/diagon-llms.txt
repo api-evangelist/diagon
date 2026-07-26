@@ -1,0 +1,43 @@
+# Albus by Diagon
+
+> Find the equipment you need
+
+Albus is Diagon's industrial equipment intelligence platform for buyers and sellers. Buyers can search across millions of industrial equipment listings, compare models, pricing, and availability, and connect with sellers faster, while sellers can publish AI-powered catalogs, reach qualified buyer demand, and see live equipment searches in real time.
+
+## Main pages
+
+- [Home](https://diagon.ai/): Buyer-facing homepage for industrial equipment search, comparison, and procurement.
+- [Browse](https://diagon.ai/browse): Public browse surface for categories, OEMs, models, and used equipment listings.
+- [Sell](https://diagon.ai/seller): Seller-facing overview of buyer demand, AI-powered catalogs, analytics, and bidding.
+
+## Policies
+
+- [Terms](https://diagon.ai/terms): Marketplace terms for buyers using Albus.
+- [Privacy Policy](https://diagon.ai/privacy-policy): Privacy and security information for Albus.
+- [Seller Terms](https://diagon.ai/seller-terms): Marketplace terms and conditions for sellers on Albus.
+
+## Featured categories
+
+- [Subtractive Manufacturing](https://diagon.ai/browse?filter_category=7fc53bf6-5498-43bd-af8d-7315153a989d&filter_category_name=Subtractive+Manufacturing): Public category landing page for Subtractive Manufacturing.
+- [Forming](https://diagon.ai/browse?filter_category=3049869d-ecd5-4195-b32b-2bfebcc0743e&filter_category_name=Forming): Public category landing page for Forming.
+- [Joining](https://diagon.ai/browse?filter_category=ddaccca2-0a4e-4c76-add0-d62a1b2a9da3&filter_category_name=Joining): Public category landing page for Joining.
+- [Surface Treatment](https://diagon.ai/browse?filter_category=3c5ed3e1-1134-4dc6-b8c4-381d8a96016f&filter_category_name=Surface+Treatment): Public category landing page for Surface Treatment.
+- [Polymer Processing](https://diagon.ai/browse?filter_category=9522b44f-f76b-455d-8a8b-6dc62e505311&filter_category_name=Polymer+Processing): Public category landing page for Polymer Processing.
+- [Mixing & Blending](https://diagon.ai/browse?filter_category=f56a352c-8c39-4059-bc4c-fff789a4ce2a&filter_category_name=Mixing+%26+Blending): Public category landing page for Mixing & Blending.
+- [Separation & Sorting](https://diagon.ai/browse?filter_category=3361bea2-b7a5-416f-87ef-a098fc6383db&filter_category_name=Separation+%26+Sorting): Public category landing page for Separation & Sorting.
+- [Test & Measurement](https://diagon.ai/browse?filter_category=558c9a7f-1d00-4bd7-afbb-920805ccd805&filter_category_name=Test+%26+Measurement): Public category landing page for Test & Measurement.
+- [Positioning & Handling](https://diagon.ai/browse?filter_category=8138f26a-5772-404e-8586-4a315fd1b76d&filter_category_name=Positioning+%26+Handling): Public category landing page for Positioning & Handling.
+- [Casting](https://diagon.ai/browse?filter_category=b02f4b59-2b94-4763-9297-5e946b9fef71&filter_category_name=Casting): Public category landing page for Casting.
+
+## Featured OEMs
+
+- [Wuxi Lead Intelligent Equipment ](https://diagon.ai/browse?filter_oem=a0ff5191-8cc1-482c-859d-6370c75cc14a&filter_oem_name=Wuxi+Lead+Intelligent+Equipment+): Public OEM landing page for Wuxi Lead Intelligent Equipment .
+- [Lyric Robot Automation](https://diagon.ai/browse?filter_oem=3f4cf869-d8d4-60a4-380d-1c1bab42bf12&filter_oem_name=Lyric+Robot+Automation): Public OEM landing page for Lyric Robot Automation.
+- [DMG Mori](https://diagon.ai/browse?filter_oem=2c598911-b17c-40e6-8296-d43d0791b48f&filter_oem_name=DMG+Mori): Public OEM landing page for DMG Mori.
+- [Trumpf](https://diagon.ai/browse?filter_oem=4c82e6fe-71a1-4c3e-88a7-278297cdcc89&filter_oem_name=Trumpf): Public OEM landing page for Trumpf.
+- [Okuma Corporation](https://diagon.ai/browse?filter_oem=439132c2-79a0-ba2f-50bc-a19690f5bc6f&filter_oem_name=Okuma+Corporation): Public OEM landing page for Okuma Corporation.
+- [DN Solutions](https://diagon.ai/browse?filter_oem=ec7e8a2c-33a1-4a20-b1c0-11bebae80a5f&filter_oem_name=DN+Solutions): Public OEM landing page for DN Solutions.
+- [FANUC](https://diagon.ai/browse?filter_oem=f410cc40-1cb4-4610-ade7-722bc9094d5c&filter_oem_name=FANUC): Public OEM landing page for FANUC.
+- [3D Systems](https://diagon.ai/browse?filter_oem=6f2f8f40-0419-477a-a647-f22d7d5a24ba&filter_oem_name=3D+Systems): Public OEM landing page for 3D Systems.
+- [Index Group](https://diagon.ai/browse?filter_oem=91e3d70b-d3bb-405f-86d1-7b9534560070&filter_oem_name=Index+Group): Public OEM landing page for Index Group.
+- [Mazak Corporation](https://diagon.ai/browse?filter_oem=335cf7a8-3520-4289-9419-8012f9fd9855&filter_oem_name=Mazak+Corporation): Public OEM landing page for Mazak Corporation.
